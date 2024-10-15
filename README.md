@@ -1,6 +1,12 @@
 # calcualtorApp
 
 
+
+While [Developer's Name] shows potential as a mobile developer, he should focus on developing a stronger sense of ownership over his assigned modules. Greater accountability in overseeing a module’s end-to-end development will enhance his contributions. Additionally, he can improve by engaging more proactively in both product and technical grooming sessions, ensuring a better understanding of requirements and technical details early on. Finally, a more diligent approach to merge request (MR) reviews, with thorough attention to code quality and alignment with project goals, will help improve the overall output and efficiency of the team.
+
+
+
+
 While [Developer's Name] consistently delivers strong results, there are opportunities for growth in thorough tech grooming. There have been instances where API contracts and expectations were revised post-delivery, which could have been addressed earlier with more detailed technical grooming sessions. By investing additional time in the planning phase—ensuring all technical aspects are thoroughly vetted and potential issues surfaced—[Developer's Name] can help prevent rework and maintain alignment across teams. Strengthening this aspect will further enhance product quality and reduce delays, allowing smoother project execution.
 
 

@@ -1,6 +1,10 @@
 # calcualtorApp
 
 
+While [Designer’s Name] excels in collaboration and responsiveness, there are areas for growth. A key focus should be ensuring platform parity between CW and mobile, particularly in maintaining information architecture consistency. Aligning designs across these platforms will provide users with a more cohesive experience. Additionally, [Designer’s Name] should prioritize accommodating native gestures in designs, ensuring they adhere to Apple’s Human Interface Guidelines (HIG). Incorporating these platform-specific gestures will enhance usability and align with best practices, making the designs more intuitive and user-friendly.
+
+[Designer’s Name] is a highly collaborative team member who is always easy to reach and responsive to requests. Her turnaround time for design feedback and iterations is consistently excellent, ensuring the team can maintain momentum and meet deadlines. She is also very open to feedback, demonstrating a willingness to adjust and improve design components as needed. This flexibility and openness make her a key asset in refining designs to meet both user and business needs. Her positive attitude and proactive communication further strengthen the team’s design process and overall success.
+
 
 
 [Designer’s Name] has been a standout leader for the design team, consistently demonstrating openness to feedback and critique. His collaborative approach fosters a creative and inclusive environment where ideas can be freely shared and refined. He is also highly skilled in critiquing designs and components, offering thoughtful, constructive feedback that improves the overall quality of the work. [Designer’s Name] leads the design team with vision and creativity, producing innovative designs that align with both user needs and business goals. His ability to balance creativity with practicality makes him a key contributor to the success of the team.

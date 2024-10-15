@@ -1,5 +1,10 @@
 # calcualtorApp
 
+[Employee's Name] has been an invaluable asset to the team, consistently demonstrating a high level of reachability and willingness to help. She is always ready to assist with pilot and production checkouts, ensuring smooth transitions and issue resolution. Her ability to write clear and detailed user stories is crucial in aligning the team's work with business needs. Additionally, she is proactive in triaging JIRA tickets, addressing issues efficiently, and ensuring nothing falls through the cracks. [Employee's Name] also excels in collaborating with both the design and engineering teams, fostering strong cross-functional partnerships that contribute to successful project outcomes. Her proactive and collaborative approach enhances team efficiency and project delivery.
+
+While [Employee's Name] excels in many aspects of her role, there are areas where she can further improve. One key area is writing more thorough user stories, ensuring that all corner cases and edge scenarios are fully considered. This will help the team avoid ambiguity and potential rework. Additionally, [Employee's Name] would benefit from being more actively involved in tech grooming sessions and standup calls, where her presence can provide valuable insights and foster better alignment between product and engineering. By focusing on these areas, she can enhance her contributions to the team’s overall success.
+
+
 
 [Developer's Name] has established himself as the foremost expert on the portfolio module, demonstrating exceptional domain experience and in-depth knowledge. He has proactively trained himself to understand every aspect of the portfolio functionality, becoming a key resource for the team. His ability to provide multiple approaches for solutions is commendable; he effectively outlines the pros and cons of each option while considering all corner cases and nuances. This thorough analysis not only aids in informed decision-making but also enhances the overall quality of our projects. [Developer's Name]'s expertise and strategic thinking significantly contribute to the team’s success and innovation in developing robust solutions.
 

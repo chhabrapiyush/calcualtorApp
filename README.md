@@ -1,5 +1,13 @@
 # calcualtorApp
 
+
+
+[Developer's Name] is a highly collaborative senior iOS developer, known for being readily reachable and always willing to help with debugging and triaging issues. His active participation in grooming sessions and thoughtful questioning fosters a better understanding of project requirements and enhances team discussions. He possesses a keen eye for design, emphasizing that designs should be consistent at the component level, which is crucial for a seamless user experience. Additionally, [Developer's Name] plays a vital role in managing MR approvals and reviews, consistently providing meaningful feedback that improves the overall quality of the codebase. His contributions significantly enhance the team's effectiveness and product quality.
+
+While [Developer's Name] excels in collaboration and design consistency, there are areas where he can further enhance his impact. He should focus more on driving grooming conversations, taking a proactive role in shaping discussions to ensure clarity and alignment on project goals. Additionally, he should take greater ownership of functional changes scoped by product and QA. By doing so, he can ensure that all aspects of the implementation are well understood and executed. Emphasizing these areas will not only strengthen his contributions but also help facilitate smoother project workflows and better team cohesion.
+
+
+
 [QA Lead's Name] is a highly collaborative senior QA lead and the single point of contact for portfolio and trading QA, making him an invaluable resource for the team. He is always easy to reach and plays a critical role in debugging issues, ensuring timely resolutions. His thorough understanding of the SDLC enables him to effectively contribute to project delivery in a fully tested form. [QA Lead's Name] actively participates in grooming sessions, asking insightful questions that cover corner cases, which enhances the overall quality of our deliverables. Furthermore, he consistently focuses on automating test cases as new functionality is developed, improving efficiency and ensuring robust testing practices. His proactive approach and expertise significantly contribute to the team's success.
 
 

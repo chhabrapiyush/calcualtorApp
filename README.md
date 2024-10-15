@@ -1,5 +1,14 @@
 # calcualtorApp
 
+
+
+
+[Designer’s Name] has been a standout leader for the design team, consistently demonstrating openness to feedback and critique. His collaborative approach fosters a creative and inclusive environment where ideas can be freely shared and refined. He is also highly skilled in critiquing designs and components, offering thoughtful, constructive feedback that improves the overall quality of the work. [Designer’s Name] leads the design team with vision and creativity, producing innovative designs that align with both user needs and business goals. His ability to balance creativity with practicality makes him a key contributor to the success of the team.
+
+
+While [Designer’s Name] leads the design team with creativity and openness, there are areas where he can further enhance his impact. One key area is ensuring platform parity between CW and web, particularly in maintaining information architecture consistency across platforms. Greater attention to detail in aligning designs across these environments will create a more seamless user experience. Additionally, [Designer’s Name] should focus on better accommodating native gestures in designs, ensuring they align with Apple’s Human Interface Guidelines (HIG). Incorporating these platform-specific gestures will improve usability and ensure designs meet industry standards.
+
+
 [Employee's Name] has been an invaluable asset to the team, consistently demonstrating a high level of reachability and willingness to help. She is always ready to assist with pilot and production checkouts, ensuring smooth transitions and issue resolution. Her ability to write clear and detailed user stories is crucial in aligning the team's work with business needs. Additionally, she is proactive in triaging JIRA tickets, addressing issues efficiently, and ensuring nothing falls through the cracks. [Employee's Name] also excels in collaborating with both the design and engineering teams, fostering strong cross-functional partnerships that contribute to successful project outcomes. Her proactive and collaborative approach enhances team efficiency and project delivery.
 
 While [Employee's Name] excels in many aspects of her role, there are areas where she can further improve. One key area is writing more thorough user stories, ensuring that all corner cases and edge scenarios are fully considered. This will help the team avoid ambiguity and potential rework. Additionally, [Employee's Name] would benefit from being more actively involved in tech grooming sessions and standup calls, where her presence can provide valuable insights and foster better alignment between product and engineering. By focusing on these areas, she can enhance her contributions to the team’s overall success.

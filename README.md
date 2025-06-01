@@ -1,5 +1,15 @@
 # calcualtorApp
 
+Thanks for sharing the debuggable build.
+
+Here’s a quick summary of what we found during our review:
+
+Performance Testing: I ran performance checks using Instruments and didn’t notice any issues with the standalone build. However, since the SDK will be embedded within our existing app, there’s a possibility of performance impact during integration. We’ll need to keep an eye on this as we move forward.
+
+Gesture Conflict: The attached video shows how the app currently handles swipe gestures. Based on our past experience, since we’re planning to use the web-based charts as a section within the existing app, there’s a likelihood of gesture conflicts between the native views and the WebView charts. Can you please share your thoughts on how we might handle or mitigate that?
+
+Also, we noticed that the existing app uses TradingView for charts. Just wanted to confirm—will the final  product continue using TradingView, or is there a plan to switch chart providers?
+
 
 [Manager's Name] possesses an exceptional understanding of both the technical and functional aspects of how the business operates, making him an invaluable leader within the team. He consistently sets clear expectations, providing guidance and structure that drive performance and success. His leadership skills are outstanding, fostering a supportive and productive environment. Additionally, [Manager's Name] maintains regular touchpoints, ensuring open communication and alignment on goals and progress. His ability to blend business acumen with technical expertise makes him a highly effective manager and mentor.
 

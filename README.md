@@ -1,3 +1,16 @@
+
+Hi [Team/All],
+
+We’ve begun testing and completed an initial review of the graph interactions. Below are our key findings:
+	1.	Swipe Gesture Behavior: While we are able to invoke the swipe gesture, it currently only triggers from the edge of the graph. Our expectation is for the gesture to be initiated from the center of the graph for a more intuitive user experience.
+	2.	Vertical Swipe Interaction: We are not observing the vertical swipe interaction on the chart as previously demonstrated. Could you please confirm if this functionality has been implemented? (We’re sharing a sample interaction for reference — please note that the gesture starts from the center of the graph.)
+	3.	Blank Screen Issue: Starting today, we’re intermittently seeing a blank screen on the chart. Please refer to the attached video for details.
+
+Could we look into these items? I’m happy to connect over a call to walk through the issues, if that would be helpful.
+
+Best regards,
+Piyush
+
 # calcualtorApp
 
 Thanks for sharing the debuggable build.
